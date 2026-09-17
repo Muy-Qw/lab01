@@ -2,6 +2,12 @@
 
 void printscreen()
 {
+    printf(" #### \n");
+    printf("#    #\n");
+    printf("#    #\n");
+    printf("######\n");
+    printf("#    #\n");
+    printf("#    #\n");
     // Please write your code here
 }
 
@@ -9,7 +15,7 @@ void printscreen()
 #ifndef ___TEST___
 int main()
 {
-    printscreen();
+    printscreen( );
     return(0);
 }
 #endif
